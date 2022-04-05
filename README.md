@@ -1,6 +1,8 @@
 # jobsheet_6
 
 A new Flutter project.
+![2](https://user-images.githubusercontent.com/89988888/161693959-7555ebbc-6338-4c1b-bfa3-f1e48051b73b.jpeg)
+![3](https://user-images.githubusercontent.com/89988888/161693967-cbd7b389-fec9-4789-b72e-0e99d683c011.jpeg)
 
 ## Getting Started
 
